@@ -1,4 +1,4 @@
-# AWS Well-Architected Cost Optimization Review Guide
+# AWS Well-Architected Review Guide for the Cost Pillar
 
 A comprehensive step-by-step guide for performing a Well-Architected Review focused on the Cost Optimization pillar using the AWS Well-Architected Tool.
 
