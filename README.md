@@ -17,7 +17,7 @@ Note: The Well-Architected Framework is designed to help AWS customers understan
 1. Launching a new workload.
 2. Periodic review of AWS spend to ensure that your spend is aligned with your business goals and available cost optimization options.
 3. Before and after a change in your deployment methodology, such as a move from instance-based to containerized workload deployment or migration to a fully orchestrated, CI/CD, or infrastructure-as-code deployment model.
-4. When your budget changes or is expected to change.
+4. When your budget or funding changes or is expected to change.
 
 ## Cost Optimization Design Principles
 
