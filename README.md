@@ -12,6 +12,13 @@ A comprehensive step-by-step guide for performing a Well-Architected Review focu
 
 The AWS Well-Architected Framework Cost Optimization pillar focuses on the ability to run systems to deliver business value at the lowest price point. This guide will walk you through using the AWS Well-Architected Tool to assess your workloads against cost optimization best practices.
 
+Note: The Well-Architected Framework is designed to help AWS customers understand and optimize their workloads. Here are a few contexts where a Well Architected review for the Cost pillar makes sense to do:
+
+1. Launching a new workload.
+2. Periodic review of AWS spend to ensure that your spend is aligned with your business goals and available cost optimization options.
+3. Before and after a change in your deployment methodology, such as a move from instance-based to containerized workload deployment or migration to a fully orchestrated, CI/CD, or infrastructure-as-code deployment model.
+4. When your budget changes or is expected to change.
+
 ## Cost Optimization Design Principles
 
 Before starting your review, understand these five key design principles:
